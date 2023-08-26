@@ -288,6 +288,8 @@ span{
 }
 
 .portfolio-layer h4{
+    color: white;
+    text-shadow: 0px 4px 4px #000000;
     font-size: 3rem;
 }
 
